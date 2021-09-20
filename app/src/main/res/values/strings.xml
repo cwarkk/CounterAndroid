@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="value">0000</string>
+    <string name="count">COUNT</string>
+</resources>
